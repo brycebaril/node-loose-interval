@@ -1,0 +1,32 @@
+{
+  "name": "loose-interval",
+  "version": "0.0.0",
+  "description": "A looser setInterval that schedules upon task completion to avoid overlap.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "tape": "~1.0.4",
+    "tap": "~0.4.3"
+  },
+  "scripts": {
+    "test": "tap test/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:brycebaril/node-loose-interval.git"
+  },
+  "keywords": [
+    "setInterval",
+    "repeat",
+    "task",
+    "overlap"
+  ],
+  "author": "Bryce B. Baril",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brycebaril/node-loose-interval/issues"
+  }
+}
