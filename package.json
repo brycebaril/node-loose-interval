@@ -1,6 +1,6 @@
 {
   "name": "loose-interval",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A looser setInterval that schedules upon task completion to avoid overlap.",
   "main": "index.js",
   "directories": {
